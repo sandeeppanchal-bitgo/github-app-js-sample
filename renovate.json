@@ -1,0 +1,9 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "github>sandeeppanchal-bitgo/learning//presets/default.json#0.0.1"
+  ],
+  "baseBranches": [
+    "main"
+  ]
+}
